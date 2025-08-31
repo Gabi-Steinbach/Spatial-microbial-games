@@ -2,7 +2,7 @@
 This repository contains code and data associated with the manuscript titled "Phase separation and coexistence in spatial coordination games between microbes". 
 
 ## Running the code
-The code for simulation and figure generation code is a Jupyter notebookthat uses Python 3. You will need python packages numpy, matplotlib, scipy, 
+The code for simulation and figure generation code is a Jupyter notebookthat uses Python 3. You will need python packages numpy, numba, matplotlib, scipy. 
 
 ## Folder descriptions
 
